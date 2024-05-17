@@ -1,7 +1,7 @@
-<<<<<<< HEAD
 # eHealth
 
 The Idea Of “eHealth – A Complete Health Care” Website Using Mern Stack Development.
+
 
 ## Background and Motivation
 
@@ -10,6 +10,7 @@ So That People Can Easily Get Their Desired Information During An Emergency Situ
 Electronic Management Of Health Information To Deliver Safer, More Efficient ,And Better Quality Healthcare. eHealth Benefits Patient Care By Providing New
 Ways Of Managing Health Information And The Deliver Them Online. A Personal Digital Healthcare Environment Gives People More Insight Into Their Health.
 
+## Helo
 ## Objective 
 We Want To Make An eHealth Platform With Better User Interface And More
 Beneficial.
