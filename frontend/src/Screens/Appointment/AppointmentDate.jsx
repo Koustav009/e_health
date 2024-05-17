@@ -9,7 +9,7 @@ import {
   KeyboardTimePicker,
 } from "@material-ui/pickers";
 import { saveDateTime } from "../../slices/choiceSlice";
-import DateFnsUtils from "@date-io/date-fns";
+// import DateFnsUtils from "@date-io/date-fns";
 import { useNavigate } from "react-router-dom";
 import { useDispatch, useSelector } from "react-redux";
 import { toast } from "react-toastify";
@@ -60,7 +60,7 @@ const AppointmentDate = () => {
               ></img>
             </div>
             <div className="col-md-5 mt-4">
-              <MuiPickersUtilsProvider utils={DateFnsUtils}>
+              {/* <MuiPickersUtilsProvider utils={DateFnsUtils}>
                 <Grid container-fluid>
                   <KeyboardDatePicker
                     disablePast
@@ -86,7 +86,7 @@ const AppointmentDate = () => {
                     onChange={(time) => handleTimeChange(time)}
                   />
                 </Grid>
-              </MuiPickersUtilsProvider>
+              </MuiPickersUtilsProvider> */}
               <div className="d-grid gap-2 d-md-block mt-5 ml-5">
                 <button
                   className="btn btn-primary"
